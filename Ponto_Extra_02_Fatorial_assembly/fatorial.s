@@ -30,3 +30,4 @@ main:
 		  mul 	 $v0, $a0, $v0
 		  addiu	 $sp, $sp, 8
 		  jr 	 $ra
+		  
